@@ -2,7 +2,7 @@
 
 Tutorial about P3 Penrose tilings with R to do images like this:
 
-<img src="https://fronkonstin.com/wp-content/uploads/2019/07/penrose_p3.png" width=55%></img>
+<img src="https://fronkonstin.com/wp-content/uploads/2019/07/penrose_p3.png" width=75%></img>
 
 ## Getting Started
 
